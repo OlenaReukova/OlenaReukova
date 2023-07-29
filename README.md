@@ -4,11 +4,14 @@ Hi 👋 My name is Olena
 A passionate Full-stack developer
 ---------------------------------
 
-* 🌍  I'm based in London, United Kingdom
-* ✉️  You can contact me at [kronverk01@gmail.com](mailto:kronverk01@gmail.com)
-* 🧠  I'm learning TypeScript
+Over the past year, I have embarked on a transformative journey of learning to code. I began my coding journey with no prior background in the tech industry. This pursuit has been fueled by my unwavering passion for creating applications that have the potential to make a positive impact on people's lives, assisting them in meeting their diverse needs. Constantly learning new programming languages is an exhilarating and fulfilling journey for me. With each language I delve into, I uncover new possibilities and expand my horizons in the world of technology.
+
+* 🌍  I'm based in London, United Kingdom
+* ✉️  You can contact me at [kronverk01@gmail.com](mailto:kronverk01@gmail.com)
+* 🧠  I'm learning TypeScript
 
 ### Skills
+
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -27,9 +30,11 @@ A passionate Full-stack developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/OlenaReukova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/olenareukova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <a href="https://github.com/OlenaReukova" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlenaReukova&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
