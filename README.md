@@ -1,7 +1,7 @@
 Hi 👋 My name is Olena
 ======================
 
-A passionate Full-stack developer
+A passionate Software Developer
 ---------------------------------
 
 Over the past year, I have embarked on a transformative journey of learning to code. I began my coding journey with no prior background in the tech industry. This pursuit has been fueled by my unwavering passion for creating applications that have the potential to make a positive impact on people's lives, assisting them in meeting their diverse needs. 
