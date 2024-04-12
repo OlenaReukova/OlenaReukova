@@ -12,7 +12,7 @@ I enjoy creating delightful, human-centred digital experiences.
 
 * 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [kronverk01@gmail.com](mailto:kronverk01@gmail.com)
-* 🧠  I'm learning TypeScript
+
 
 ### Skills
 
