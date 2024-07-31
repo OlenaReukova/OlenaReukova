@@ -4,8 +4,6 @@ Hi 👋 My name is Olena
 A passionate Software Developer
 ---------------------------------
 
-Over the past year, I have embarked on a transformative journey of learning to code. I began my coding journey with no prior background in the tech industry. This pursuit has been fueled by my unwavering passion for creating applications that have the potential to make a positive impact on people's lives, assisting them in meeting their diverse needs. 
-
 Constantly learning new programming languages is an exhilarating and fulfilling journey for me. With each language I delve into, I uncover new possibilities and expand my horizons in the world of technology.
 
 I enjoy creating delightful, human-centred digital experiences.
