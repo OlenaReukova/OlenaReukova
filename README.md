@@ -1,7 +1,7 @@
 Hi 👋 My name is Olena
 ======================
 
-A passionate Software Developer
+Software Developer
 ---------------------------------
 
 Constantly learning new programming languages is an exhilarating and fulfilling journey for me. With each language I delve into, I uncover new possibilities and expand my horizons in the world of technology.
