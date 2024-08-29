@@ -9,6 +9,7 @@ Constantly learning new programming languages is an exhilarating and fulfilling 
 I enjoy creating delightful, human-centred digital experiences.
 
 * 🌍  I'm based in London, United Kingdom
+* Volunteer as a full-stack developer for [Kindly](https://github.com/enBloc-org/kindly), a platform for supporting Ukrainian refugees.
 * ✉️  You can contact me at [kronverk01@gmail.com](mailto:kronverk01@gmail.com)
 * At present, I am looking for a Software Developer role.
 * [My portfolio](https://olenareukova.netlify.app/) 
